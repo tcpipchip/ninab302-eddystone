@@ -1,0 +1,5 @@
+&i2c0 {
+        status = "okay";
+	sda-pin = <2>;
+	scl-pin = <3>;
+};

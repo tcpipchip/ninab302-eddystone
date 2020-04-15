@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"name": "190722-222637-espidf-aws-iot",
+			"path": "C:\\Users\\tcpipchip\\Documents\\PlatformIO\\Projects\\190722-222637-espidf-aws-iot"
+		},
+		{
+			"name": "visys_adv",
+			"path": "C:\\Users\\tcpipchip\\Documents\\PlatformIO\\Projects\\visys_adv"
+		},
+		{
+			"path": "C:\\Users\\tcpipchip\\Documents\\PlatformIO\\Projects\\visys_adv_switch"
+		},
+		{
+			"path": "C:\\Users\\tcpipchip\\Documents\\PlatformIO\\Projects\\visys_adv_temp_switch"
+		},
+		{
+			"path": "C:\\esp32-master"
+		},
+		{
+			"path": "C:\\mqtt-ir-transceiver-pow-to-ds18b20-home-delta-sem-interrupt-G-count-infra-feedback-sirene-update-solved-snoozer-detection-release-rxd-esp32"
+		},
+		{
+			"path": "C:\\Users\\tcpipchip\\Documents\\PlatformIO\\Projects\\visys_adv_temp_switch_define"
+		},
+		{
+			"path": "C:\\mqtt-ir-transceiver-pow-alpha-snoozer-json-release-cse-2"
+		},
+		{
+			"path": "C:\\mqtt-ir-transceiver-pow-alpha-snoozer-json-release-cse-2-stat"
+		},
+		{
+			"path": "C:\\mqtt-ir-transceiver-pow-alpha-snoozer-json-release-nova-pow"
+		},
+		{
+			"path": "C:\\zephyr-ble-beacon"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\tcpipchip\\.platformio\\penv\\Scripts;C:\\Users\\tcpipchip\\.platformio\\penv;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Program Files (x86)\\Scripts\\;C:\\Program Files (x86)\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\MWLite\\MetaWare\\arc\\bin;C:\\MWLite\\MetaWare\\ide;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Mercurial\\;C:\\Windows\\System32\\;c:\\Windows\\System32\\Wbem\\;C:\\PROGRA~2\\PICC;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\doxygen\\bin;C:\\Program Files\\Zerynth\\ztc\\windows64;C:\\Program Files\\Git\\cmd;C:\\Go\\bin;C:\\Program Files\\The Whitecat Create Agent;C:\\Program Files (x86)\\Nordic Semiconductor\\nrf5x\\bin\\;C:\\Program Files\\Calibre2\\;C:\\Program Files (x86)\\Mitov\\Visuino;C:\\Program Files (x86)\\Mitov\\Visuino Pro;C:\\Program Files\\Amazon\\AWSCLI\\;C:\\Users\\tcpipchip\\AppData\\Local\\Mu\\bin;C:\\Program Files (x86)\\GNU Tools ARM Embedded\\6 2017-q2-update\\bin;C:\\Program Files (x86)\\Atmel\\sam-ba_2.18\\drv\\;C:\\Program Files (x86)\\Atmel\\sam-ba_2.18;C:\\Program Files (x86)\\Atmel\\sam-ba_2.16\\drv\\;C:\\Program Files (x86)\\Atmel\\sam-ba_2.16;C:\\Program Files (x86)\\GNU Tools ARM Embedded\\5.4 2016q3\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\tools\\mingw64\\bin;C:\\Users\\tcpipchip\\AppData\\Local\\Programs\\Fiddler;C:\\Program Files (x86)\\CMake\\bin;C:\\Users\\tcpipchip\\AppData\\Roaming\\npm;C:\\SysGCC\\esp32\\bin;C:\\Users\\tcpipchip\\go\\bin;C:\\Users\\tcpipchip\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Python27\\;C:\\Python27\\Scripts;C:\\Program Files (x86)\\Scripts\\;C:\\Program Files (x86)\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\MWLite\\MetaWare\\arc\\bin;C:\\MWLite\\MetaWare\\ide;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Mercurial\\;C:\\Windows\\System32\\;c:\\Windows\\System32\\Wbem\\;C:\\PROGRA~2\\PICC;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;C:\\Program Files\\LLVM\\bin;C:\\Program Files\\doxygen\\bin;C:\\Program Files\\Zerynth\\ztc\\windows64;C:\\Program Files\\Git\\cmd;C:\\Go\\bin;C:\\Program Files\\The Whitecat Create Agent;C:\\Program Files (x86)\\Nordic Semiconductor\\nrf5x\\bin\\;C:\\Program Files\\Calibre2\\;C:\\Program Files (x86)\\Mitov\\Visuino;C:\\Program Files (x86)\\Mitov\\Visuino Pro;C:\\Program Files\\Amazon\\AWSCLI\\;C:\\Users\\tcpipchip\\AppData\\Local\\Mu\\bin;C:\\Program Files (x86)\\GNU Tools ARM Embedded\\6 2017-q2-update\\bin;C:\\Program Files (x86)\\Atmel\\sam-ba_2.18\\drv\\;C:\\Program Files (x86)\\Atmel\\sam-ba_2.18;C:\\Program Files (x86)\\Atmel\\sam-ba_2.16\\drv\\;C:\\Program Files (x86)\\Atmel\\sam-ba_2.16;C:\\Program Files (x86)\\GNU Tools ARM Embedded\\5.4 2016q3\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\tools\\mingw64\\bin;C:\\Users\\tcpipchip\\AppData\\Local\\Programs\\Fiddler;C:\\Program Files (x86)\\CMake\\bin;C:\\Users\\tcpipchip\\AppData\\Roaming\\npm;C:\\SysGCC\\esp32\\bin;C:\\Users\\tcpipchip\\go\\bin;C:\\Users\\tcpipchip\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		},
+		"files.associations": {
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"util.h": "c"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}
